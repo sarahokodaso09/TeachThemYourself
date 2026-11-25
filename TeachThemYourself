@@ -1,0 +1,124 @@
+# Poor Academic Performance at Babcock University: The TeachThemYourself Solution
+
+## 1. Problem Statement
+Poor academic performance is a persistent problem for students at Babcock University and across Nigerian higher education. Students who fall behind early often struggle to recover, and a low CGPA can lead to academic probation or, in the worst case, withdrawal from the university under the grounds set out in Babcock's Academic Policies Manual (2023 to 2027). The problem is not only about weak students. It is about a gap in the support available to students during the semester, when it matters most.
+
+## 2. Target Users
+* **A.** Students
+* **B.** Tutors
+
+## 3. Why the Problem Exists
+Our own findings point to poor study habits, lack of motivation, and inadequate academic support, among other causes. Published research supports this:
+
+* A study in the *Babcock University Journal of Education*, using a cross-sectional survey of students in South-West Nigeria, found that financial constraints, academic unpreparedness, poor study habits, lack of motivation, inadequate academic support, and institutional issues together had a significant influence on students' inability to complete university. Poor study habits had the strongest individual effect, followed by financial constraints, lack of motivation, academic unpreparedness, and inadequate academic support.
+* A Babcock study on the social determinants of academic performance identifies the social environment, academic environment, and health and well-being as key factors.
+* A Babcock survey of campus food services notes that poor-quality food and an unconducive dining environment can reduce concentration during lectures, which threatens academic performance.
+
+> **Academic unpreparedness** means entering university without the knowledge, study skills, or habits the course demands, such as a weak secondary school foundation or not knowing how to study independently.
+
+## 4. How Students Cope Today
+* Examination malpractice
+* Last-minute reading
+* Study groups
+* Paid tutorials
+
+Some of these coping methods are harmful (malpractice) or ineffective (cramming), and the helpful ones are often informal and inconsistent.
+
+## 5. Existing Solutions and Why They Fall Short
+Existing solutions include A-stars tutorials, study groups, and past questions. They help, but they share one weakness: they are not designed to guide a student throughout the semester. They work once and then let the student go. A student who attends a single revision session before exams has had no support during the weeks when the gaps actually formed.
+
+## 6. Proposed Solution: TeachThemYourself
+TeachThemYourself is a paid platform that connects students who are struggling in a course with academically strong students who can tutor them consistently throughout the semester, with the tutors earning alongside.
+
+### How It Works
+1. Students can sign up as tutors for courses they have done well in.
+2. Students who need help search for a course and see whether a tutor is available.
+3. If a tutor is available, the student sees the price for the course, pays, and can then contact the tutor for further information.
+4. The student also pays a monthly fee that supports the platform and the tutors.
+5. Students can request tutors for specific courses on the app when none is available yet.
+
+### Tutor Eligibility
+A student qualifies to tutor a course through one of two routes, so that strong students in any course can take part while quality stays high:
+* **Completed the course:** A score of 75 or above in that course makes the student eligible to tutor it, whatever their overall CGPA.
+* **Currently taking the course:** The student must be on a first-class CGPA or GPA.
+* **Verification:** Every tutor submits their results, which the platform team checks before the tutor profile goes live.
+* **Trial period:** A tutor's first sessions are rated by students, and tutors who fall below a set rating are flagged and given a tutor guide to improve.
+
+### Pricing
+The platform charges in two parts, and the student sees the full cost before paying:
+* **Monthly fee:** Gives access to the platform, the course search, tutor requests, and support. It covers running costs and the platform's share.
+* **Course fee:** Paid for a specific course and goes mainly to the tutor.
+* **Setting the amounts:** Prices will be decided after a short survey of what students currently pay for tutorials and what they can afford.
+* **Lower barriers:** The first session is free, and group sessions let students split a tutor's fee.
+
+## 7. MVP Features
+* Tutor sign-up and profile creation
+* Results upload and manual verification before a profile goes live
+* Course search showing available tutors and the course price
+* Tutor request when no tutor is available for a course
+* Payment of monthly fee plus course fee, with the total shown before paying
+* Contact with the tutor after payment
+* Free first session
+
+## 8. Why This Solution Should Work
+* **It addresses the gap in the research.** Inadequate academic support and poor study habits are among the strongest factors identified, and ongoing one-to-one guidance targets both directly.
+* **It covers the whole semester.** Unlike one-off tutorials, students can build a regular relationship with a tutor.
+* **It helps unprepared students catch up.** Tutors can fill foundation gaps and teach study methods, not just course content.
+* **It is peer-based and affordable.** Tutors are students who recently took the same courses and understand the lecturers and exams.
+* **It creates income for strong students.** This also gives them a reason to keep their own grades high and helps with the financial pressure that research links to student difficulties.
+* **It reduces the pull of malpractice and cramming** by giving students a legitimate way to get help.
+
+## 9. Risks and How We Address Them
+Six risks could weaken TeachThemYourself, and each has an answer built into the design.
+
+| Risk | Why It Matters | How We Address It |
+| :--- | :--- | :--- |
+| **Too few tutors** *(Note: listed as "Too few prices" in original)* | A strict first-class rule could leave many courses with no tutor. | Allow the course-score route (75 or above), recruit from students in higher levels, and use the tutor request feature to show where demand is. |
+| **Confusing pricing** | Two fees can look like double charging. | Monthly fee covers platform access, course fee pays the tutor, and the total is shown before payment. |
+| **Uneven tutor quality** | A high grade does not prove someone can teach. | Verified results, a rating after every session, and a free first session. |
+| **Cost for struggling students** | The research names financial constraints as a major cause of student difficulty. | Free first session, group sessions to split fees, and discounts for students who cannot afford full prices. |
+| **Fit with university rules** | Babcock already has course advising and academic policies. | Present the platform as a complement to advisors, ask the relevant office for approval, and let advisors refer students to it. |
+| **Academic dishonesty** | Tutors might be tempted to do assignments or help with exams. | A code of conduct where tutors only teach and explain, a report button, and removal of tutors who break the rules. |
+
+## 10. Survey Findings
+12 students responded to our Google Forms survey. The results support the problem and the main features of the solution, with a warning: few respondents want to tutor.
+
+### What the Survey Says About the Problem
+
+| Question | Result |
+| :--- | :--- |
+| **How would you describe your academic performance?** | Good (second class upper): 9 (75%); Excellent (first class, 4.5+): 2 (16.7%); Average (second class lower): 1 (8.3%); Poor: 0 |
+| **What is the main reason you struggle or have struggled?** *(more than one allowed)* | Poor study habits: 10 (83.3%); Lack of motivation: 7 (58.3%); Difficult courses: 4 (33.3%); Inadequate academic support: 2 (16.7%) |
+| **How do you currently cope with academic pressure?** *(more than one allowed)* | Past questions: 10 (83.3%); Last-minute reading: 6 (50%); Study groups: 5 (41.7%); Paid tutorials: 1 (8.3%); Examination malpractice: 0; I don't cope well: 0 |
+| **Have existing solutions helped consistently through the semester?** | Sometimes: 8 (66.7%); Yes, always: 4 (33.3%); Rarely: 0; No, never: 0 |
+
+### What the Survey Says About the Solution
+
+| Question | Result |
+| :--- | :--- |
+| **Would you use a platform that connects you with a dedicated tutor for a course throughout the semester?** | Yes, definitely: 6 (50%); Maybe: 4 (33.3%); No: 2 (16.7%) |
+| **How much would you pay monthly for a tutor on one course?** | ₦2,000 to ₦5,000: 8 (66.7%); Below ₦2,000: 2 (16.7%); ₦5,000 to ₦10,000: 2 (16.7%); Above ₦10,000: 0 |
+| **What would you want most from a tutor?** *(more than one allowed)* | Exam preparation and revision: 9 (75%); Simplified explanations: 8 (66.7%); Help with past questions: 5 (41.7%); Regular one-on-one sessions: 4 (33.3%); Accountability and follow-up: 4 (33.3%) |
+| **Would you become a tutor and earn on the platform?** | Maybe: 6 (50%); No: 5 (41.7%); Yes: 1 (8.3%) |
+| **Is it fair that tutors need a first class CGPA (current courses) or 75+ (completed courses)?** | Yes, it's fair: 11 (91.7%); Too strict: 1 (8.3%); Too lenient: 0; Not sure: 0 |
+| **Which feature matters most in a tutoring platform?** | Affordable pricing: 5 (41.7%); Verified tutors: 3 (25%); Tutor ratings and reviews: 2 (16.7%); Easy course search: 1 (8.3%); Secure payment: 1 (8.3%) |
+
+### What This Means for the Design
+* **Demand exists.** 10 of 12 students (83.3%) would definitely or maybe use the platform, and none said existing options rarely or never help.
+* **Focus tutoring on study habits and exams.** Study habits (83.3%) and motivation (58.3%) are the top causes, and students want exam preparation (75%) and simplified explanations (66.7%) most. Sessions should teach how to study as well as course content, and follow-up (33.3%) can support motivation.
+* **Price within the students' range.** Keep the course price at ₦2,000 to ₦5,000 a month, and keep affordability visible, since it was the most important feature (41.7%).
+* **Keep verification and ratings.** Verified tutors and tutor ratings and reviews were chosen together by 5 of 12 students (41.7%).
+* **Tutor supply is the main risk.** Only 1 of 12 (8.3%) definitely wants to tutor, and 6 said maybe. The group needs a plan to win over the "maybe" students, such as clear earnings estimates and flexible hours.
+* **The eligibility rules are accepted.** 11 of 12 (91.7%) find them fair, so the supply problem is about willingness to tutor, not the rule.
+
+### Limits of the Survey
+* Only 12 responses, so each student moves a result by 8.3 percentage points.
+* 11 of 12 described their performance as first class or second class upper and none as poor, so students who struggle most may be under-represented.
+* Answers are self-reported, and examination malpractice in particular may be under-reported.
+* A larger sample, with a note on how respondents were chosen, would make the evidence stronger.
+
+## 11. Sources
+* *Babcock University Journal of Education*, "An Examination of Factors Influencing Students' Inability to Complete Their University Education in South-West Nigeria" (`journal.babcock.edu.ng`)
+* Agbon et al. (2023), "Social Determinant of Academic Performance of Undergraduate Students in Private University," *International Journal of Research and Innovation in Social Science*
+* Okwudishu et al. (2026), *Babcock University Medical Journal* 9(1), study of student food services at Babcock University
+* *Babcock University Academic Policies Manual 2023 to 2027* (`babcock.edu.ng`)
